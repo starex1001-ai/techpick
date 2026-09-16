@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "name": "테크픽",
+  "brand": "TECH PICK",
+  "mark": "TP",
+  "worker": "techpick",
+  "url": "https://techpick.webnote-lab.workers.dev",
+  "description": "PC와 디지털 기기의 설정, 연결, 파일 관리 문제를 정리합니다.",
+  "tagline": "IT 문제, 차근차근 해결하기",
+  "categories": [
+    {
+      "slug": "laptop",
+      "name": "노트북",
+      "description": "노트북 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "storage",
+      "name": "저장공간",
+      "description": "저장공간 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "bluetooth",
+      "name": "블루투스",
+      "description": "블루투스 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "usb",
+      "name": "USB·외장장치",
+      "description": "USB·외장장치 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "windows-update",
+      "name": "윈도우 업데이트",
+      "description": "윈도우 업데이트 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "laptop-buying",
+      "name": "노트북 구매",
+      "description": "노트북 구매 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "charging",
+      "name": "충전기·케이블",
+      "description": "충전기·케이블 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "backup",
+      "name": "파일·백업",
+      "description": "파일·백업 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "browser",
+      "name": "웹브라우저",
+      "description": "웹브라우저 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "pc-reset",
+      "name": "PC 초기화",
+      "description": "PC 초기화 관련 확인 방법과 가이드"
+    }
+  ],
+  "contact_url": "https://github.com/starex1001-ai/techpick/issues"
+}
